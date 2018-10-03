@@ -1,14 +1,14 @@
 {
   "ui": [
-    {"first_name":"Fanny","last_name":"Dodgson","user_id":731435,"certifications":{"name":"OCA"},"project_name":"Project-4","grade":"A"},
+    {"first_name":"Fanny","last_name":"Dodgson","user_id":731435,"certifications":{"name":"OCA"},"project_name":"Project-4","grade":"A"}
   ],
   "mobility": [
-    {"first_name":"Cirstoforo","last_name":"Bruster","user_id":726019,"certifications":{"name":"AWS Software Architect"},"project_name":"Project-4","grade":"D"},
+    {"first_name":"Cirstoforo","last_name":"Bruster","user_id":726019,"certifications":{"name":"AWS Software Architect"},"project_name":"Project-4","grade":"D"}
   ],
   "cm": [
-    {"first_name":"Devora","last_name":"Sevin","user_id":970434,"certifications":{"name":"AWS Software Architect"},"project_name":"Project-3","grade":"M"},
+    {"first_name":"Devora","last_name":"Sevin","user_id":970434,"certifications":{"name":"AWS Software Architect"},"project_name":"Project-3","grade":"M"}
   ],
   "design": [
-    {"first_name":"Ainsley","last_name":"Tarrant","user_id":766960,"certifications":{"name":"AWS Software Architect"},"project_name":"Project-1","grade":"AD"},
+    {"first_name":"Ainsley","last_name":"Tarrant","user_id":766960,"certifications":{"name":"AWS Software Architect"},"project_name":"Project-1","grade":"AD"}
   ]
 }
