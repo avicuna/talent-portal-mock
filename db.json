@@ -1,11 +1,4 @@
 {
-  "ui": [
-    {"first_name":"Fanny","last_name":"Dodgson","user_id":731435,"certifications":{"name":"OCA"},"project_name":"Project-4","grade":"A"}
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
   "profile": {
     "name": "typicode"
   }
