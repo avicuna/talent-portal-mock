@@ -1,24 +1,14 @@
 {
-	"ui": [
-	{"first_name":"Fanny","last_name":"Dodgson","user_id":731435,"certifications":{"name":"OCA"},"project_name":"Project-4","grade":"A"},
-	{"first_name":"Thacher","last_name":"Lincoln","user_id":539073,"certifications":{"name":"AWS Software Architect"},"project_name":"Project-3","grade":"AD"},
-	{"first_name":"Karena","last_name":"Uppett","user_id":724331,"certifications":{"name":"AWS Software Architect"},"project_name":"Project-4","grade":"D"},
-	],
-	"mobility": [
-	{"first_name":"Cirstoforo","last_name":"Bruster","user_id":726019,"certifications":{"name":"AWS Software Architect"},"project_name":"Project-4","grade":"D"},
-	{"first_name":"Ron","last_name":"Gamlen","user_id":32157,"certifications":{"name":"OCA"},"project_name":"Project-4","grade":"SM"},
-	{"first_name":"Aggie","last_name":"Oris","user_id":212177,"certifications":{"name":"AWS Software Architect"},"project_name":"Project-3","grade":"AD"},
-	
-	],
-	"cm": [
-	{"first_name":"Devora","last_name":"Sevin","user_id":970434,"certifications":{"name":"AWS Software Architect"},"project_name":"Project-3","grade":"M"},
-	{"first_name":"Jessy","last_name":"Potten","user_id":710322,"certifications":{"name":"OCA"},"project_name":"Project-3","grade":"SA"},
-	{"first_name":"Gerrie","last_name":"Breese","user_id":446057,"certifications":{"name":"AWS Software Architect"},"project_name":"Project-3","grade":"SA"},
-	
-	],
-	"design": [
-	{"first_name":"Ainsley","last_name":"Tarrant","user_id":766960,"certifications":{"name":"AWS Software Architect"},"project_name":"Project-1","grade":"AD"},
-	{"first_name":"Karlik","last_name":"Teligin","user_id":946821,"certifications":{"name":"OCA"},"project_name":"Project-1","grade":"D"},
-	{"first_name":"Rockey","last_name":"Snewin","user_id":948398,"certifications":{"name":"OCA"},"project_name":"Project-4","grade":"M"},
-	]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
