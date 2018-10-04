@@ -14,10 +14,5 @@
   "projects": [
     {"project_name":"Project-2","id":88775881932,"start_date":"04/09/2014","end_date":"07/01/2016","project_details":"Project Details"},
     {"project_name":"Project-2","id":15251080630,"start_date":"22/01/2016","end_date":"20/10/2017","project_details":"Project Details"}
-  ],
-  "project-associates": [
-    {"first_name":"Ainsley","last_name":"Tarrant","user_id":766960,"certifications":{"name":"AWS Software Architect"},"project_name":"Project-1","grade":"AD"},
-    {"first_name":"Ainsley","last_name":"Tarrant","user_id":766960,"certifications":{"name":"AWS Software Architect"},"project_name":"Project-1","grade":"AD"},
-    {"first_name":"Ainsley","last_name":"Tarrant","user_id":766960,"certifications":{"name":"AWS Software Architect"},"project_name":"Project-1","grade":"AD"}
-  ]  
+  ]
 }
